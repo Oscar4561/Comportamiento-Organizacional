@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Bienvenidos a la página de Comportamiento Organizacional
 
-You can use the [editor on GitHub](https://github.com/Oscar4561/Comportamiento-Organizacional/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+La comunicación organizacional se define como los canales y formas de comunicación que se producen dentro de las organizaciones, ya sean empresas, instituciones académicas, organizaciones no lucrativas u organismos gubernamentales. Incluye tanto la comunicación al interior de la organización como la comunicación hacia el público externo.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+La comunicación organizacional se centra en gran medida en la construcción de relaciones y la interacción con los miembros internos de la organización y los públicos externos interesados. 
 
-### Markdown
+Generalmente se conciben dos formas de ver la comunicación organizacional:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-La comunicación dentro de las organizaciones (donde la comunicación es parte de la organización).
+-La comunicación como organización (es decir, las organizaciones son el resultado de la comunicación de quienes las integran).
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Oscar4561/Comportamiento-Organizacional/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  intent="WELCOME"
+  chat-title="COMPORTAMIENTO-ORGANIZACIONAL"
+  agent-id="b74cc0e1-b48e-4945-b80e-a8321646b5ae"
+  language-code="es"
+></df-messenger>
